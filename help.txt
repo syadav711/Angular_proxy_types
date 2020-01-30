@@ -1,0 +1,2 @@
+// ng g s <servicename>
+move <servicename>.service.* services
